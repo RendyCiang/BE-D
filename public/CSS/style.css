@@ -1,0 +1,39 @@
+.paragraf-eksternal {
+    color: red;
+    background-color: yellowgreen;
+    font-weight: 900;
+}
+
+.heading-1 {
+    font-size: smaller;
+    color: cadetblue;
+}
+
+#heading-2 {
+    font-size: 50px;
+}
+
+p {
+    margin-left: 50%;
+    color: forestgreen;
+}
+
+.warna {
+    margin-left: 10%;
+    color: black;
+}
+
+.test-pseudo {
+    color: black;
+}
+
+.test-pseudo:hover {
+    color: blue;
+    background-color: tomato;
+    margin-left: 10%;
+}
+
+.nama:focus {
+    background-color: yellow;
+    color: rgb(77, 26, 128);
+}
