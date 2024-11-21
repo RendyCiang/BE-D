@@ -3,13 +3,11 @@
 Berikut beberapa cara untuk mendownload dan menjalankan file Laravel
 
 ### Download ZIP atau Clone Github
-
-1. Download ZIP atau Clone Github
-2. Buka Folder di terminal atau CMD
-3. ketik
+1. Buka Folder di terminal atau CMD
+2. ketik
 
 -   composer install
 
-4. lalu coba run project
+3. lalu coba run project
 
 -   php artisan serve
